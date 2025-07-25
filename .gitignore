@@ -1,0 +1,11 @@
+data/*
+!data/dummy/
+!data/dummy/**
+
+# 기타 무시
+README.md
+.gitignore
+gitflow/
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
