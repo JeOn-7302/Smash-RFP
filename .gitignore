@@ -9,4 +9,4 @@ gitflow/
 __pycache__/
 *.pyc
 *.ipynb_checkpoints/
-environment.yaml
+environment.yamlenvironment.yaml
