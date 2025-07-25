@@ -1,4 +1,4 @@
-name: smash-rfg-env
+name: team2_env
 channels:
   - conda-forge
   - defaults
@@ -263,4 +263,3 @@ dependencies:
       - lxml==6.0.0
       - olefile==0.47
       - pyhwp==0.1b15
-prefix: /home/eojin-kim/miniconda3/envs/smash-rfg-env
