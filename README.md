@@ -87,6 +87,7 @@ AI-Engineer/
 
 [![Cross Encoder](https://img.shields.io/badge/Rerank-MiniLM--L--6--v2-f2f1f0)](https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2)
 
+[![GPT 4.1 nano](https://img.shields.io/badge/LLM-GPT--4.1--nano-3f7373)](https://openai.com/index/gpt-4-1/)
 [![MessagesPlaceholder](https://img.shields.io/badge/Prompt-MessagesPlaceholder-3f7373)](https://python.langchain.com/api_reference/core/prompts/langchain_core.prompts.chat.MessagesPlaceholder.html)
 
 [![Qwen3-8B](https://img.shields.io/badge/LLM-Qwen3--8B-f2f1f0)](https://huggingface.co/Qwen/Qwen3-8B)
